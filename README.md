@@ -9,6 +9,6 @@ Integrantes:
 
 Repositorios:
 - UNSA "http://repositorio.unsa.edu.pe/browse?type=dateissued"
-- UNSAAC  "https://repositorio.unsaac.edu.pe/browse?type=dateissued"
+- UNMSM  "http://cybertesis.unmsm.edu.pe/handle/20.500.12672/7/browse?type=dateissued'" (Facultad de ciencias mateamticas)
 - UNA "http://tesis.unap.edu.pe/browse?type=dateissued"
 
